@@ -1,53 +1,66 @@
 {
+  "posts": [
+    {
+
+    "id": 1,
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+ 
+    "id": 2,
+    "title": "qui est esse",
+    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+  },
+  {
+ 
+    "id": 3,
+    "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+  },
+  {
+    
+    "id": 4,
+    "title": "eum et est occaecati",
+    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+  }
+  ],
   "photos": [
-    {
-      id: 1,
-      title: "accusamus beatae ad facilis cum similique qui sunt",
-      url: "https://via.placeholder.com/600/92c952",
-      thumbnailUrl: "https://via.placeholder.com/150/92c952",
-    },
-    {
-      id: 2,
-      title: "reprehenderit est deserunt velit ipsam",
-      url: "https://via.placeholder.com/600/771796",
-      thumbnailUrl: "https://via.placeholder.com/150/771796",
-    },
-    {
-      id: 3,
-      title: "officia porro iure quia iusto qui ipsa ut modi",
-      url: "https://via.placeholder.com/600/24f355",
-      thumbnailUrl: "https://via.placeholder.com/150/24f355",
-    },
-    {
-      id: 4,
-      title: "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
-      url: "https://via.placeholder.com/600/d32776",
-      thumbnailUrl: "https://via.placeholder.com/150/d32776",
-    },
-    {
-      id: 5,
-      title: "natus nisi omnis corporis facere molestiae rerum in",
-      url: "https://via.placeholder.com/600/f66b97",
-      thumbnailUrl: "https://via.placeholder.com/150/f66b97",
-    },
-    {
-      id: 6,
-      title: "accusamus ea aliquid et amet sequi nemo",
-      url: "https://via.placeholder.com/600/56a8c2",
-      thumbnailUrl: "https://via.placeholder.com/150/56a8c2",
-    },
-    {
-      id: 7,
-      title: "officia delectus consequatur vero aut veniam explicabo molestias",
-      url: "https://via.placeholder.com/600/b0f7cc",
-      thumbnailUrl: "https://via.placeholder.com/150/b0f7cc",
-    },
-    {
-      id: 8,
-      title: "aut porro officiis laborum odit ea laudantium corporis",
-      url: "https://via.placeholder.com/600/54176f",
-      thumbnailUrl: "https://via.placeholder.com/150/54176f",
-    },
+     {
+
+    "id": 1,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "url": "https://via.placeholder.com/600/92c952",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  {
+
+    "id": 2,
+    "title": "reprehenderit est deserunt velit ipsam",
+    "url": "https://via.placeholder.com/600/771796",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+  },
+  {
+ 
+    "id": 3,
+    "title": "officia porro iure quia iusto qui ipsa ut modi",
+    "url": "https://via.placeholder.com/600/24f355",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+  {
+
+    "id": 4,
+    "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+    "url": "https://via.placeholder.com/600/d32776",
+    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+  },
+  {
+
+    "id": 5,
+    "title": "natus nisi omnis corporis facere molestiae rerum in",
+    "url": "https://via.placeholder.com/600/f66b97",
+    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+  }
   ],
   "profile": {
     "name": "typicode"
